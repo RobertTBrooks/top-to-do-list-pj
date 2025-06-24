@@ -161,3 +161,9 @@
 #new-to-do:active {
   box-shadow: none;
 }
+
+@media (max-width: 1200px) {
+  #to-do-bg {
+    width: 98%;
+  }
+}
